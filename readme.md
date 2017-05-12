@@ -13,7 +13,7 @@ Installation:
 
      go get github.com/TimothyJones/csv-check
 
-##See also
+## See also
 
 For a simple way to fix common malformed CSV files, see [csv-clean](http://github.com/TimothyJones/csv-clean)
 
